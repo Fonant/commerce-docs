@@ -9,6 +9,8 @@ Imagine that your store is planning to run a special New Year campaign where you
 
 ## Adding a New Promotion
 
+- This functionality is provided the the Commerce Promotion (commerce_promotion) module. Enable this module to work with promotions.
+
 - You can create a new promotion by going to ``/admin/commerce/promotions`` and clicking the "Add promotion" button.
 
 ![Admin ui for creating a promotion](../images/creating_a_promotion.png)
