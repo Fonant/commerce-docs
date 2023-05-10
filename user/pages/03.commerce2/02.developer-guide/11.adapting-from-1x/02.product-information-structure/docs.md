@@ -13,3 +13,7 @@ Products -> Product variations.
 1.x Products == 2.x variations. No directly edit for variations anymore.
 
 Attributes are their own entity, not taxonomy terms.
+
+Profiles:
+  Billing profile -> Customer profile
+  Shipping profile -> Shipping profile
